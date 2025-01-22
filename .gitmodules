@@ -1,0 +1,9 @@
+[submodule "contenthub"]
+	path = contenthub
+	url = https://github.com/PameraNikitha/contenthub.git
+[submodule "meemac"]
+	path = meemac
+	url = https://github.com/PameraNikitha/meemic.git
+[submodule "oneacg"]
+	path = oneacg
+	url = https://github.com/PameraNikitha/oneacg.git
